@@ -18,11 +18,11 @@ fi-FI: &DEFAULT_FI
 
   services:
     title: "Palvelut"
-    text: "Alla esitelty tarjoamiani palveluja. Ota rohkeasti yhteyttä!"
+    text: "Alla esitelty tarjoamiani palveluja. <a href='#contact'>Ota rohkeasti yhteyttä ja kerro tarpeistasi!</a>"
     section: services
     list:
       - title: "Rakentaminen"
-        desc: "Mökkien rakentaminen ja kunnostaminen sekä muut mökkipihan tarpeet, kuten portaat, aitat ja kesäkeittiöt. Ota yhteyttä ja kerro tarpeistasi tarkemmin!"
+        desc: "Mökkien rakentaminen ja kunnostaminen sekä muut mökkipihan tarpeet, kuten portaat, aitat ja kesäkeittiöt."
         icon: fas fa-screwdriver-wrench #find more at https://fontawesome.com/icons 
       - title: "Siivouspalvelut"
         desc: "Kotien ja mökkien siivouspalvelu"
