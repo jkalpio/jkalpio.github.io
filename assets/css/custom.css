@@ -17,3 +17,15 @@ section#contact .section-heading {
   background-color: #212529 !important;
   color: #fff;
 }
+
+#services .row {
+  justify-content: center;
+
+}
+
+@media (min-width: 768px) {
+  .col-md-4 {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+  }
+}

@@ -11,7 +11,7 @@
 # -----------------
 fi-FI: &DEFAULT_FI
   header:
-    title: Rakennusalan ammattilainen Mäntyharjulla
+    title: Koti- ja mökkipalvelut Mäntyharjulla
     text: 
     button: Katso palveluni
     buttonlink: "#services"
@@ -23,7 +23,10 @@ fi-FI: &DEFAULT_FI
     list:
       - title: "Rakentaminen"
         desc: "Mökkien rakentaminen ja kunnostaminen sekä muut mökkipihan tarpeet, kuten portaat, aitat ja kesäkeittiöt. Ota yhteyttä ja kerro tarpeistasi tarkemmin!"
-        icon: fas fa-screwdriver-wrench #find more at https://fontawesome.com/icons
+        icon: fas fa-screwdriver-wrench #find more at https://fontawesome.com/icons 
+      - title: "Siivouspalvelut"
+        desc: "Kotien ja mökkien siivouspalvelu"
+        icon: fas fa-broom #find more at https://fontawesome.com/icons
       - title: "Pihla-ikkunoiden asennus"
         desc: "Olen valtuutettu Pihla-merkkisten ikkunoiden myyjä sekä asentaja."
         icon: fas fa-house-chimney-window
